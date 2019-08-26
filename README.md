@@ -9,3 +9,5 @@ There are three subfolders:
 * Schematic drawn in Eagle 7.7.0
 
 The project description can be found [here](https://www.hackster.io/clemens-valens/youtube-subscriber-counter-on-arduino-uno-bac897)
+
+![](./youtube-subscriber-monitor.jpg)
