@@ -14,5 +14,7 @@ to set the SS pin to pin 3:
 Use it in place of the default Arduino Ethernet library.
 
 WIZnet IoT iOffload Contest
+
 Clemens Valens
+
 August 2019
